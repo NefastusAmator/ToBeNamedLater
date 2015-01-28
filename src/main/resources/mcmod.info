@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "TBNLt",
+    "name": "To Be Named Later",
+    "description": "Various things I am playing with",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "https://github.com/NefastusAmator/ToBeNamedLater",
+    "updateUrl": "",
+    "authorList": [
+      "NefastusAmator"
+    ],
+    "credits": "Pahimar for his great tutorial",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
